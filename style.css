@@ -48,7 +48,7 @@
   .menu-list-item.active {
     font-weight: bold;
   }
-  .profile-container {
+  /* .profile-container {
     flex: 2;
     display: flex;
     align-items: center;
@@ -64,7 +64,7 @@
     height: 32px;
     border-radius: 50%;
     object-fit: cover;
-  }
+  } */
   
   .toggle {
     width: 40px;
@@ -92,7 +92,7 @@
     transition: 1s ease all;
   }
   
-  .sidebar {
+  /* .sidebar {
     width: 50px;
     height: 100%;
     background-color: black;
@@ -102,7 +102,7 @@
     flex-direction: column;
     align-items: center;
     padding-top: 60px;
-  }
+  } */
   
   .left-menu-icon {
     color: white;
@@ -272,3 +272,4 @@
           display: none;
       }
   }
+  
